@@ -1,0 +1,4 @@
+﻿  AlgorithmEX.cpp
+C:\Users\User\Desktop\강의 자료\AlgorithmEX\AlgorithmEX\AlgorithmEX.cpp(11,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\User\Desktop\강의 자료\AlgorithmEX\AlgorithmEX\AlgorithmEX.cpp(11,1): message : 이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+  AlgorithmEX.vcxproj -> C:\Users\User\Desktop\강의 자료\AlgorithmEX\x64\Debug\AlgorithmEX.exe
